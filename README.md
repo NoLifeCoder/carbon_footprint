@@ -1,4 +1,4 @@
-# Carbon Footprint Monitoring Tool
+# Carbon Footprint Application
 
 ## Overview
 This Carbon Footprint Application allows users to input their energy consumption, water usage, and waste production. It generates a report with suggestions on how to reduce their carbon footprint. The tool includes a graphical user interface (GUI) created using Tkinter and generates a pie chart as part of the report.
